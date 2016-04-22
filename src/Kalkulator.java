@@ -17,11 +17,11 @@ public class Kalkulator {
 		return 0;
 	}
 
-	public static double korjenuj(double a, double b) {
+	public static double korjenuj(double a) {
 		return 0;
 	}
 
-	public static double kvadriraj(double a, double b) {
+	public static double kvadriraj(double a) {
 		return 0;
 	}
 }
